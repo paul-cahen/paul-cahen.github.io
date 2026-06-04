@@ -17,7 +17,7 @@ author_profile: true
 
 
 * **Irreducible representations of universal Burger-Mozes groups in infinite arity**,
-    * *Group theory* seminar, UCLouvain, Louvain, Belgique, May 2026.
+    * Group theory seminar, UCLouvain, Louvain, Belgique, May 2026.
 
 * **A new approach to the representation theory of Aut(T\\(_\infty\\))**,
    * *Groupes et Theorie des Modèles* seminar, IMJ-PRG, Paris, France, Novembre 2025.
