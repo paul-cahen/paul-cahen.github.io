@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV can be found [here](https://rbarritault.github.io/files/Barritault_R_CV.pdf).
+My full CV can be found [here](https://paul-cahen.github.io/files/CV_paul-cahen.pdf).
 
 ## Short CV
 
 ### Education
 
-* Ph.D student in Mathematics, Université Claude Bernard Lyon 1, 2023 - present.
-  * Supervised by [Todor Tsankov](http://www.math.jussieu.fr/~todor/) and [Christian Rosendal](https://sites.google.com/view/christian-rosendal).
-  * Title: Dynamics and Geometry of locally Roelcke-precompact Polish groups.
-  * 9 months stay with Christian Rosendal at the University of Maryland, USA, September 2024 - June 2025.
-* M.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2022.
-* B.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2020.
+* Ph.D student in Mathematics, Université Claude Bernard Lyon 1, 2024 - present.
+  * Supervised by [Christophe Garban](https://math.univ-lyon1.fr/~garban/) and [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/).
+  * Title: Study of the scaling limits of the planar Ising model and conformal invariance.
+  * 5 months stay with Avelio Sepúlveda at the University of Chile in Santiago, September 2025 - January 2026.
+* M.S. in Mathematics, Ecole Normale Supérieure de Paris, 2024.
+* B.S. in Mathematics, Ecole Normale Supérieure de Paris, 2020.
 
 ### Research Internships and visits
 
@@ -53,14 +53,19 @@ My full CV can be found [here](https://rbarritault.github.io/files/Barritault_R_
 ### Teaching
 * 2025-2026: Université Lyon 1, Lyon, France.
   * Undergraduate teaching in **Mathematics**, *64h*.
-* 2024-2025: [University of Maryland at College Park](https://www-math.umd.edu/), USA.
-    * Tutoring of an undergraduate student in the **Directed Reading Program**, *20h*.
-      * Spring Semester: The Krein-Milman Theorem.
-      * Fall Semester: Introduction to dynamical systems and chaos theory.
-* 2023-2024: Université Lyon 1, Lyon, France.
-  * Undergraduate teaching in **Mathematics**, *64h*.
-* 2020-2021: Lycée La Martinière Monplaisir, Lyon, France.
+* 2024-2025: Université Lyon 1, Lyon, France.
+    * Exercice sessions, *12h*.
+    * Computer lab, *6h*
+* 2023-2024: Lycée Louis le Grand, Paris, France.
   * Oral exam preparation in **Mathematics** for "Grandes écoles" entrance exams, *48h*.
+* 2022-2023: Lycée Louis le Grand, Paris, France.
+  * Oral exam preparation in **Mathematics** for "Grandes écoles" entrance exams, *16h*.
+* 2021-2022: Lycée Louis le Grand, Paris, France.
+  * Oral exam preparation in **Mathematics** for "Grandes écoles" entrance exams, *16h*.
+* 2020-2021: Lycée Louis le Grand, Paris, France.
+  * Oral exam preparation in **Mathematics** for "Grandes écoles" entrance exams, *64h*.
+* 2019-2020: Lycée Louis le Grand, Paris, France.
+  * Oral exam preparation in **Mathematics** for "Grandes écoles" entrance exams, *32h*.
 
 
 
