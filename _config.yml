@@ -8,42 +8,42 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rémi Barritault"
-title_separator          : "-"
-name                     : &name "Rémi Barritault"
-description              : &description "Rémi Barritault is a PhD Student in Mathematics at Université Claude Bernard Lyon 1 in Lyon, France. He studies topological group theory, geometry and model theory."
-url                      : https://rbarritault.github.io
+title                    : "Paul Cahen's home page"
+title_separator          : ""
+name                     : &name " "
+description              : &description "Paul Cahen is a PhD Student in Mathematics at Université Claude Bernard Lyon 1 in Lyon, France. He studies probability and statistical physics."
+url                      : https://paul-cahen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rbarritault/rbarritault.github.io"
+repository               : "paul-cahen/paul-cahen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpg"
-  name             : "Rémi Barritault"
+  avatar           : "profile.jpg"
+  name             : "Paul Cahen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Mathematics"
   location         : "Lyon, France"
   employer         : "Université Claude Bernard Lyon 1"
   uri              : # URL
-  email            : "barritault@math.univ-lyon1.fr" 
+  email            : "cahen@math.univ-lyon1.fr" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/?query=Barritault%2C+R%C3%A9mi&searchtype=author" # URL - Update with the correct link to your profile
+  arxiv            : # URL - Update with the correct link to your profile (entre guillemets)
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0007-3101-0227"
+  orcid            : # URL
   pubmed           : # URL
   researchgate     : # URL
-  HAL              : "https://hal.science/search/index/?q=*&authIdPerson_i=1369242"
+  HAL              : # URL 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "rbarritault"
+  github           : # "paul-cahen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -164,7 +164,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: France/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
