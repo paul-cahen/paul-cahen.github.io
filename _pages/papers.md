@@ -8,12 +8,12 @@ redirect_from:
   - /publications/
   - /publication/
 ---
-* **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), *preprint*. In this work we introduce the concepts of *weak domination* and *weak$^\dagger$ domination* (and analogous notions for the FKG property), weaker notions of stochastic dominations. *<br/>
-<small>[ <a href="#/" onclick="visib('burger2025')">Abstract</a> | <a href="https://rbarritault.github.io/files/Burger-Mozes.pdf">PDF</a>] </small>
+* **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), *preprint*.  *<br/>
+<small>[ <a href="#/" onclick="visib('abstractFK-Ising2026')">Abstract</a> | <a href="https://rbarritault.github.io/files/Burger-Mozes.pdf">PDF</a>] </small>
 
   
-<div id="burger2025" style="display: none; text-align: justify; line-height: 1.2" ><small>
-I classify the irreducible unitary representations of universal Burger-Mozes when the prescribed local action is oligomorphic, 2-transitive, and has no imaginary over singletons. Work in progress.
+<div id="abstractFK-Ising2026" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In this work we introduce the concepts of *weak domination* and *weak$^\dagger$ domination* (and analogous notions for the FKG property), which are notions of stochastic dominations after thinning (and sprinkling). Thanks to a new stochastic domination for FK percolation, we are able to show that the *energy field* of the Ising model (i.e. the set of edges +/+ or -/-) is weakly monotone in the coupling constants and we determine quantitatively the parameter of the thinning necessary to get the domination. We also find the amount of thinning necessary to get the weak$^\dagger$ domination.
 </small><br><br/></div>
 
 
