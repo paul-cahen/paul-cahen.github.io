@@ -76,27 +76,22 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
+/* Photo de profil dans la sidebar : rectangle portrait */
+.author__avatar img {
+  display: block;
+  max-width: none;
+  width: 150px;
+  height: 220px;
+  object-fit: cover;
+  object-position: 65% center;
+  border-radius: 0;
+}
 
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+@media screen and (max-width: 1023px) {
+  .author__avatar img {
+    width: 55px;
+    height: 80px;
   }
 }
 
