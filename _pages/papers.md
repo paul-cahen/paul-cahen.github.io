@@ -1,13 +1,17 @@
 ---
 layout: archive
-title: "Papers"
+title: "Research"
 permalink: /papers/
 author_profile: true
 redirect_from:
+  - /research/
   - /paper/
   - /publications/
   - /publication/
 ---
+
+# Papers
+
 * **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/). *Preprint*  <br/>
 <small>[ <a href="#/" onclick="visib('abstractFK-Ising-weak-domination')">Abstract</a> | <a href="https://paul-cahen.github.io/files/inequality of measures - final.pdf">PDF</a> | <a href="lien arxiv">ArXiv</a> | <a href="lien HAL">HAL</a>] </small>
 
@@ -42,3 +46,7 @@ In this paper, we construct in a novel and explicit way the magnetization field 
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
+
+# Serious talks at seminars, work-groups and conferences
+
+* On FK perco  blablab
