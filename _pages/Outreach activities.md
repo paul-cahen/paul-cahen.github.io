@@ -28,4 +28,4 @@ As a high school student I took part in the Olympiads, and attended many courses
 
 * **MathàLyon**
 
-Since the beginning of my PhD I helped *MathàLyon* a few times. This is an association that regularly visits middle schools to run mathematical workshops with students and help them discover various ideas beyond school mathematics through their own exploration. [Here](paul-cahen.github.io/files/le-guide-mathalyon.pdf) is a document presenting the activities of MathàLyon.
+Since the beginning of my PhD I helped *MathàLyon* a few times. This is an association that regularly visits middle schools to run mathematical workshops with students and help them discover various ideas beyond school mathematics through their own exploration. [Here](https://paul-cahen.github.io/files/le-guide-mathalyon.pdf) is a document presenting the activities of MathàLyon.
