@@ -17,6 +17,7 @@ I discovered juggling at 17 (actually thanks to other young persons into mathema
 As a high school student I took part in the Olympiads, and attended many courses organized by the [POFM](https://maths-olympiques.fr/) who were meant to prepare us. After starting university, I started to give myself exercice sessions in many occurences. Here is a short resume of my activity there: 
 
 * **The Levine Hat problem**
+
 Levine hat puzzle has $n\ge 2$ players given each of them an infinite stack hats, each of them colored at random either black or white, the colors being chosen i.i.d. flipping a fair coin. They are allowed to communicate before the random colors are sampled but not after. The players see everyone's hats but theirs, and they simultaneously try to pick a black hat of their own stack. They win precisely when all the players get it right. Let $V_n$ be the supremum of their success probability over all possible strategies. Levine's conjecture states that \(V_n\to 0\) as \(n\) goes to infinity. Even the value \(V_2\) is unknown.
 
 I gave a talk about this fascinating game at the *Séminaire Pizza de l'ICJ* in front of the interested researchers of all the lab.
