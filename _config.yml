@@ -7,14 +7,17 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Paul Cahen's home page"
-title_separator          : ""
-name                     : &name " "
-description              : &description "Paul Cahen is a PhD Student in Mathematics at Université Claude Bernard Lyon 1 in Lyon, France. He studies probability and statistical physics."
-url                      : https://paul-cahen.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "paul-cahen/paul-cahen.github.io"
+locale : "en-US"
+
+title : "Paul Cahen"
+title_separator : "–"
+name : &name "Paul Cahen"
+
+description : &description "Homepage of Paul Cahen, PhD student in Mathematics at Université Claude Bernard Lyon 1. Research in probability, statistical physics, the Ising model and FK percolation."
+
+url : https://paul-cahen.github.io
+baseurl : ""
+repository : "paul-cahen/paul-cahen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
