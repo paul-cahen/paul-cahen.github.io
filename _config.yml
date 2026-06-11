@@ -147,6 +147,15 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+social:
+  type: Person
+  name: "Paul Cahen"
+  links:
+    - https://paul-cahen.github.io/
+    - https://orcid.org/0009-0009-6096-3523
+    - https://arxiv.org/a/0009-0009-6096-3523
+    - https://github.com/paul-cahen
+
 # Defaults
 defaults:
   # _pages
