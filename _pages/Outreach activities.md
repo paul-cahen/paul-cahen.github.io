@@ -15,11 +15,11 @@ I discovered juggling at 17 (actually thanks to other young persons into mathema
 
 [This olympic problem](https://artofproblemsolving.com/community/c6h1113168p5083494), who was the last problem at IMO 2015, has much to do with this mathematical theory of siteswaps.
 
-* **The Levine Hat problem**
+* **The Levine Hat game**
 
 Levine hat puzzle has $n\ge 2$ players given each of them an infinite stack hats, each of them colored at random either black or white, the colors being chosen i.i.d. flipping a fair coin. They are allowed to communicate before the random colors are sampled but not after. The players see everyone's hats but theirs, and they simultaneously try to pick a black hat of their own stack. They win precisely when all the players get it right. Let $V_n$ be the supremum of their success probability over all possible strategies. Levine's conjecture states that $V_n\to 0$ as $n$ goes to infinity. Even the value $V_2$ is unknown.
 
-I gave a talk about this fascinating game at the *Séminaire Pizza de l'ICJ* in front of the interested researchers of all the lab.
+I gave a talk about this fascinating problem at the *Séminaire Pizza de l'ICJ* in front of the interested researchers of all the lab. I mostly based my talk on the paper [*On Levine's notorious hat puzzle*](https://arxiv.org/abs/1407.4711), but many other papers brought new ideas to that subject: see e.g. [this one](https://arxiv.org/abs/2103.01541), or [that one](https://arxiv.org/abs/2503.09042).
 
 
 * **Olympic mathematics**
