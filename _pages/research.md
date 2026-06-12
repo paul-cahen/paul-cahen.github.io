@@ -12,7 +12,7 @@ redirect_from:
 
 # Papers
 
-* **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/). *Preprint*  <br/> <small>[ <a href="#/" onclick="visib('abstractFK-Ising-weak-domination')">Abstract</a> | <a href="https://paul-cahen.github.io/files/inequality of measures - final.pdf">PDF</a> | <a href="[lien arxiv](https://arxiv.org/abs/2606.13648)">ArXiv</a> | <a href="lien HAL">HAL</a>] </small>
+* **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/). *Preprint*  <br/> <small>[ <a href="#/" onclick="visib('abstractFK-Ising-weak-domination')">Abstract</a> | <a href="https://paul-cahen.github.io/files/inequality of measures - final.pdf">PDF</a> | <a href="[lien arxiv](https://arxiv.org/abs/2606.13648)">ArXiv</a> ] </small>
 
   
 <div id="abstractFK-Ising-weak-domination" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -21,7 +21,7 @@ In this work we introduce the concepts of <em>weak domination</em> and <em>weak\
 
 
   
-* **The critical ising magnetization field can be reconstructed from its \(+/-\( interfaces**, with [Christophe Garban](https://math.univ-lyon1.fr/~garban/) and [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), 2026. *Work in progress* <br/> <small>[ <a href="#/" onclick="visib('abstract-CLE-3-paper')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-05047341v1">HAL</a>] </small>
+* **The critical ising magnetization field can be reconstructed from its \(+/-\( interfaces**, with [Christophe Garban](https://math.univ-lyon1.fr/~garban/) and [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), 2026. *Work in progress* <br/> <small>[ <a href="#/" onclick="visib('abstract-CLE-3-paper')">Abstract</a>] </small>
 
 <div id="abstract-CLE-3-paper" style="display: none; text-align: justify; line-height: 1.2"><small>
 In this paper, we construct in a novel and explicit way the magnetization field of the critical planar Ising model <a href="{{ '/files/CGN-IMF.pdf' | relative_url }}">introduced a decade ago</a>. The only randomness that we use is the one arising from the set of interfaces of the spin clusters, the \(\mathrm{CLE}_3\). Therefore, as a corollary of our construction this shows that the critical Ising magnetization field is measurable in term of the \(\mathrm{CLE}_3\).
