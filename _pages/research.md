@@ -12,7 +12,7 @@ redirect_from:
 
 # Papers
 
-* **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/). *Preprint*  <br/> <small>[ <a href="#/" onclick="visib('abstractFK-Ising-weak-domination')">Abstract</a> | <a href="https://paul-cahen.github.io/files/inequality of measures - final.pdf">PDF</a> | <a href="lien arxiv">ArXiv</a> | <a href="lien HAL">HAL</a>] </small>
+* **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/). *Preprint*  <br/> <small>[ <a href="#/" onclick="visib('abstractFK-Ising-weak-domination')">Abstract</a> | <a href="https://paul-cahen.github.io/files/inequality of measures - final.pdf">PDF</a> | <a href="[lien arxiv](https://arxiv.org/abs/2606.13648)">ArXiv</a> | <a href="lien HAL">HAL</a>] </small>
 
   
 <div id="abstractFK-Ising-weak-domination" style="display: none; text-align: justify; line-height: 1.2" ><small>
